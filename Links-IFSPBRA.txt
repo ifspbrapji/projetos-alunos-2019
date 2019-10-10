@@ -1,0 +1,13 @@
+Site: https://bra.ifsp.edu.br/
+
+Servidores: https://bra.ifsp.edu.br/servidores
+
+Descrição do curso de Informática: https://bra.ifsp.edu.br/cursos-artigos/126-tecnico-em-informatica-integrado-ao-ensino-medio
+
+Projeto Pedagógico do Curso (PCC) de Informática: https://bra.ifsp.edu.br/phocadownload/TecnicoInformatica-Integrado/PPC_TecInt_Informatica.pdf
+
+IC: https://bra.ifsp.edu.br/iniciacao-cientifica
+
+CONCAM: https://bra.ifsp.edu.br/concam
+
+
